@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.15">
+	<Enum uuid="13b7b9c7-4321-4bb6-ae9b-36ab89554259">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.СпособыВызоваДополнительныхОбработок" category="Ref">
+				<xr:TypeId>a888bfb5-9ff0-4a6a-829f-3dcdaa92dd71</xr:TypeId>
+				<xr:ValueId>66e1cd71-7738-4baf-b67e-ffa1046c2931</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.СпособыВызоваДополнительныхОбработок" category="Manager">
+				<xr:TypeId>036697a8-693e-4a58-ac42-6e671a09890d</xr:TypeId>
+				<xr:ValueId>f0191c07-351d-4927-8b54-2dceb84c1244</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.СпособыВызоваДополнительныхОбработок" category="List">
+				<xr:TypeId>591d593f-3d14-487b-95da-071080bb2662</xr:TypeId>
+				<xr:ValueId>13c64dd8-8e3c-4f44-b348-aa7f6b0ef777</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СпособыВызоваДополнительныхОбработок</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>98393093-7ba6-4b4d-86be-ee5826cd8cd5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="0d606948-db07-4cce-85e9-c4727ee43ac5">
+				<Properties>
+					<Name>ОтправкаОбъектов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Отправка объектов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="2874c259-ef8a-415f-9193-bf915c079111">
+				<Properties>
+					<Name>ВызовHTTPСервиса</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Вызов HTTPСервиса</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
